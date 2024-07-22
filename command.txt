@@ -1,1 +1,0 @@
-docker run -d --name=ru1 -e speedtest=0 -e api_port=2333 -e downWithPanel=0 -e node_id=47 -e usemysql=0 -e sspanel_url="https://globalcloud.cc" -e key="344334" -e TZ="Asia/Shanghai" -p 10270:10270/tcp -p 10270:10270/udp --log-opt max-size=10m --log-opt max-file=5 --restart=always xiaoyiya/free-node:v2ray
