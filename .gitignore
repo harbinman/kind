@@ -42,4 +42,6 @@ terraform.rc
 
 # Ignore command.txt files
 command.txt
+# project demo
+**/projectDemo/*
 # End of https://www.toptal.com/developers/gitignore/api/terraform
