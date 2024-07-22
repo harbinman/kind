@@ -39,4 +39,7 @@ terraform.rc
 # Ignore key pair files
 *.pem
 *.pkk
+
+# Ignore command.txt files
+command.txt
 # End of https://www.toptal.com/developers/gitignore/api/terraform
